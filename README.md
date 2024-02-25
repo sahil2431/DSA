@@ -1,1 +1,1 @@
-# It contains my program of my DSA journey
+# It contains program of my DSA journey
